@@ -7,3 +7,8 @@ Hackage: [temporary](http://hackage.haskell.org/package/temporary)
 
 Maintained by [Mateusz Kowalczyk](https://github.com/Fuuzetsu) and
 [Roman Cheplyaka](https://github.com/feuerbach).
+
+## Fork purpose
+
+This fork is used by:
+* Disciplina project
